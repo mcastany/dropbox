@@ -1,0 +1,23 @@
+F:\samples\OwinOAuthProviders\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.csprojResolveAssemblyReference.cache
+F:\samples\OwinOAuthProviders\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.Properties.Resources.resources
+F:\samples\OwinOAuthProviders\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.csproj.GenerateResource.Cache
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Owin.Security.Providers.dll.config
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Owin.Security.Providers.dll
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Owin.Security.Providers.pdb
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Microsoft.Owin.dll
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Microsoft.Owin.Security.Jwt.dll
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Owin.dll
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Microsoft.Owin.xml
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Microsoft.Owin.Security.Jwt.xml
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.Properties.Resources.resources
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.csproj.GenerateResource.Cache
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.dll
+C:\Users\user.I-NB115\Documents\visual studio 2013\Projects\SteamMobileService\Owin.Security.Providers\obj\Debug\Owin.Security.Providers.pdb
